@@ -2,6 +2,7 @@
 I made my resume in IIT Guwahati template using LaTeX, a markup language for preparing a document. It is mainly used to create technical or scientific articles, papers, reports, books or Ph.D. thesis.
 
 My resume looks something like this
+
 ![Screenshot](Screenshot.png)
 
 ## How to view the above PDF?
